@@ -1,0 +1,3 @@
+C:/Users/zcy/Documents/C/computer_graphics/pictures2/cmake-build-debug/CMakeFiles/pictures2.dir
+C:/Users/zcy/Documents/C/computer_graphics/pictures2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zcy/Documents/C/computer_graphics/pictures2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
